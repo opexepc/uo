@@ -75,7 +75,6 @@ void cmd_loop()
               continue;
             }
           }
-          std::cin.ignore(100000, '\n');
           switch(act)
           {
             case 1:
