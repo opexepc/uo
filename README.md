@@ -18,7 +18,7 @@ CMake 3.10+
 GCC/Clang on Linux  
 Visual Studio or MinGW on Windows  
 
-[ff_lib](https://github.com/opexepc/ff_lib)
+[ff_lib](https://github.com/opexepc/ff_lib) in system or edit CMakeLists.txt
 
 ## Linux
 ### step 1 - build lib
