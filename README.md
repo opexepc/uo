@@ -31,7 +31,7 @@ make
 
 ### step 2 - clone to bin dir
 ```bash
-cp build/uo ~/.local/bin/
+cp uo ~/.local/bin/
 ```
 
 ## Windows
