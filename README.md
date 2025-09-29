@@ -14,12 +14,13 @@ in file:
 ```
 
 ### step 0 - check software
-CMake 3.10+
-GCC/Clang on Linux
+CMake 3.10+  
+GCC/Clang on Linux  
+Visual Studio or MinGW on Windows  
+
+[ff_lib](https://github.com/opexepc/ff_lib)
 
 ## Linux
-
-Visual Studio or MinGW on Windows
 ### step 1 - build lib
 ```bash
 git clone https://github.com/opexepc/uo.git
