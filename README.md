@@ -7,9 +7,11 @@ $uo =main print call
 config path + main.ccf -> block <print> -> arg [args] = echo print: arg_1 ->> $print: call  
 
 in file:  
-"<print>"
+```ccf
+<print>
 [args] = echo print: arg_1
-"</print>"  
+</print>
+```
 
 ### step 0 - check software
 CMake 3.10+
