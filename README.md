@@ -15,9 +15,9 @@ in file:
 
 ### step 0 - check software
 CMake 3.10+  
+git  
 GCC/Clang on Linux  
-Visual Studio or MinGW on Windows  
-
+Visual Studio 2022 on Windows  
 [ff_lib](https://github.com/opexepc/ff_lib) in system or edit CMakeLists.txt
 
 ## Linux
