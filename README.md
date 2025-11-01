@@ -36,7 +36,7 @@ cp uo ~/.local/bin/
 ```
 if local dir not exist
 ```bash
-cp uo ~/.local/bin/
+sudo cp uo /bin/
 ```
 
 ## Windows
