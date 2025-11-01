@@ -34,6 +34,10 @@ make
 ```bash
 cp uo ~/.local/bin/
 ```
+if local dir not exist
+```bash
+cp uo ~/.local/bin/
+```
 
 ## Windows
 ### step 1 - build lib
